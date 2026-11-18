@@ -44,7 +44,7 @@ Begin with small, manageable tasks to build confidence:
 
 When contributing, adhere to the project’s guidelines:
 
-*   Fork and Clone: Fork the repository and clone it to your local machine.
+*   Fork and Clone: A fork is your own copy of someone else's repository on GitHub. Cloning downloads that repository to your computer, allowing you to work on the files locally. First, fork the repository on GitHub, then clone your fork to your computer.
 *   Create a Branch: Work on a separate branch for your changes.
 *   Write Clean Code: Follow the project’s coding standards and write clear, concise code.
 *   Test Your Changes: Ensure your changes don’t break existing functionality.
